@@ -1,0 +1,581 @@
+Sl.No,Course Code,Course Name,AS,AA,AB,BB,BC,CC,CD,DD,FA,FD,FP,I,NP,PP,Grand Total,HoD,Hardcopy Received
+1,BM 511H,Corporate Finance,0,1,1,3,8,6,4,0,0,0,0,0,0,0,23,Forwarded,No
+2,BM 512H,Computer-aided Operations Research,0,4,4,3,6,2,3,0,0,0,0,0,0,0,22,Forwarded,No
+3,BM 513H,Business Communication,0,2,6,11,6,1,0,0,0,0,0,0,0,0,26,Forwarded,No
+4,BM 514H,Organization Structure and Design,0,4,4,8,4,4,1,0,0,0,0,0,0,0,25,Forwarded,No
+5,BM 515H,Strategic Management,0,1,2,9,7,8,1,0,0,0,0,0,0,0,28,Forwarded,No
+6,BM 516H,Business Analytics,0,1,9,8,7,3,0,0,0,0,0,0,0,0,28,Forwarded,Yes
+7,BM 517H,Operations Management,0,3,0,4,8,4,2,1,0,0,0,0,0,0,22,Forwarded,Yes
+8,BM 518H,E-Commerce and its Application,0,2,5,10,3,2,0,0,0,0,0,0,0,0,22,Forwarded,Yes
+9,BM 519H,Legal Aspects of Business,0,3,7,9,6,2,0,0,0,0,0,0,0,0,27,Forwarded,Yes
+10,BM 520H,Cross-Cultural Management,1,1,2,7,8,4,2,0,0,0,0,0,0,0,25,Forwarded,Yes
+11,BM 530H,Project Work-II,0,2,3,6,2,3,0,0,0,0,0,0,0,0,16,Forwarded,No
+12,BM 534H,Project work - III,0,2,5,6,1,2,0,0,0,0,0,0,0,0,16,Forwarded,No
+13,BM 602H,Financial Risk Management,0,0,0,2,1,6,2,3,0,0,3,0,3,20,40,Forwarded,No
+14,BM 607H,"Money, Banking and Financial Markets",0,2,8,3,4,0,0,0,0,0,0,0,0,0,17,Forwarded,Yes
+15,BM 650H,Sales and Distribution Management,0,1,5,6,4,3,0,0,0,0,0,0,0,0,19,Forwarded,No
+16,BM 668H,Materials Management,0,1,3,9,2,1,0,0,0,0,0,0,0,0,16,Forwarded,No
+17,BT 101,Introductory Biology,0,43,142,219,215,133,103,50,0,1,51,1,0,0,958,Forwarded,Yes
+18,BT 206,Microbiology,0,4,8,21,26,2,7,8,1,1,3,0,0,0,81,Forwarded,Yes
+19,BT 207,Genetic Engineering,2,3,4,4,10,11,16,21,0,0,10,0,0,0,81,Forwarded,Yes
+20,BT 208,Transport Phenomenon in Bioprocesses,0,10,19,23,10,7,10,1,0,1,0,0,0,0,81,Forwarded,Yes
+21,BT 209,Bioreaction Engineering,0,15,17,12,7,9,7,16,0,0,0,0,0,0,83,Forwarded,Yes
+22,BT 211,Basic Biotechnology Lab,0,8,46,25,2,0,0,0,0,0,0,0,0,0,81,Forwarded,Yes
+23,BT 302M,Bioprocess Technology,0,1,1,1,1,0,0,0,0,0,0,0,0,0,4,Forwarded,Yes
+24,BT 305,Computational Biology,4,15,7,10,10,6,4,17,1,0,0,0,1,0,75,Forwarded,Yes
+25,BT 306,Bioseparation Engineering,0,7,10,13,13,12,11,3,0,0,2,0,0,0,71,Forwarded,Yes
+26,BT 307,Biological Data Analysis,0,2,10,17,14,6,7,13,0,0,3,0,0,0,72,Forwarded,Yes
+27,BT 308,Bioengineering,0,3,0,13,12,21,12,9,0,1,2,0,0,0,73,Forwarded,Yes
+28,BT 402,BTech Project-II,2,15,11,14,12,2,2,3,0,0,0,0,0,0,61,Forwarded,Yes
+29,BT 502,Quantitative Biology,0,3,3,13,8,7,6,4,0,0,0,0,0,1,45,Forwarded,Yes
+30,BT 504,Biomolecular and Cellular Process Engineering,0,16,7,4,11,2,2,0,0,0,0,0,0,0,42,Forwarded,Yes
+31,BT 520,Applied Biology and Bioengineering Lab,0,19,21,0,0,0,0,0,0,0,0,0,0,0,40,Forwarded,Yes
+32,BT 522,Advanced Bioengineering,0,3,3,0,3,0,0,0,0,0,0,0,0,0,9,Forwarded,Yes
+33,BT 523,Metabolic Engineering,1,8,2,0,0,0,0,0,0,0,0,0,0,0,11,Forwarded,Yes
+34,BT 524,Bioinstrumentation & Control,0,1,1,2,1,1,3,0,0,0,0,0,0,0,9,Forwarded,Yes
+35,BT 540,Applied Bioengineering Lab,0,3,2,4,0,0,0,0,0,0,0,0,0,0,9,Forwarded,Yes
+36,BT 601,Analytical Biotechnology,0,15,10,10,7,2,2,0,0,0,2,0,0,0,48,Forwarded,Yes
+37,BT 607,Plant Biotechnology,5,8,11,9,14,8,8,2,0,0,0,0,0,0,65,Forwarded,Yes
+38,BT 608,Microbial Biotechnology,0,14,13,14,10,10,0,0,0,0,0,0,0,0,61,Forwarded,Yes
+39,BT 616n,General Virology,0,4,7,2,7,3,0,3,0,0,1,0,0,0,27,Forwarded,Yes
+40,BT 617,Proteomics: Methods & Applications,0,3,3,3,1,0,0,0,0,0,0,0,0,0,10,Forwarded,Yes
+41,BT 619,Essentials of Genetics,0,6,14,6,1,0,0,0,0,0,0,0,0,0,27,Forwarded,Yes
+42,BT 624,Fluorescence Techniques in Biotechnology,1,14,14,11,0,4,1,0,0,0,2,0,0,1,48,Forwarded,Yes
+43,BT 630,Physical Cell Biology,1,4,5,10,12,9,6,1,0,0,0,0,0,0,48,Forwarded,Yes
+44,BT 631,"Protein Structure, Function and Crystallography",1,6,15,6,10,12,7,7,1,0,0,0,0,0,65,Forwarded,Yes
+45,BT 633,Human Biology and Diseases,2,12,32,59,84,55,22,7,0,0,2,0,0,2,277,Forwarded,Yes
+46,BT 638,Cellular And Molecular Aspects of Aging,0,4,7,4,5,4,0,0,0,0,0,0,0,4,28,Forwarded,Yes
+47,BT 652,Introduction to Programming,0,1,10,7,2,1,0,0,0,0,0,0,0,0,21,Forwarded,Yes
+48,BT 699,M. Tech Project II (MTP II),0,15,3,7,0,0,0,0,0,0,0,15,0,0,40,Forwarded,Yes
+49,BT 701,M. Tech Project II (MTP II),0,5,2,0,0,0,0,0,0,0,0,3,0,0,10,Forwarded,Yes
+50,CE 201,Surveying,0,1,17,50,18,4,4,4,0,0,0,0,0,0,98,Forwarded,Yes
+51,CE 205,Structural Analysis I,1,7,31,32,12,8,6,3,0,0,0,0,0,0,100,Forwarded,Yes
+52,CE 206,Geotechnical Engineering,0,8,20,15,15,13,11,12,0,0,5,0,0,0,99,Forwarded,Yes
+53,CE 213,Surveying Laboratory,0,10,53,14,20,0,0,0,0,0,0,0,0,0,97,Forwarded,Yes
+54,CE 215,Geotechnical Engineering Laboratory,0,2,24,43,14,9,6,1,0,0,0,0,0,0,99,Forwarded,Yes
+55,CE 220,Hydraulics and Hydraulic Structures,0,7,15,47,25,5,0,0,0,0,0,0,0,0,99,Forwarded,No
+56,CE 221,Hydraulics and Hydraulic Structures Laboratory,0,10,29,60,0,0,0,0,0,0,0,0,0,0,99,Forwarded,No
+57,CE 222,Environmental Engineering I,0,1,1,1,17,20,27,19,0,0,13,0,0,0,99,Forwarded,No
+58,CE 223,Environmental Engineering I Lab,0,5,12,56,21,3,1,0,0,0,0,0,0,0,98,Forwarded,Yes
+59,CE 308,Construction Technology and Management,0,16,28,24,21,16,0,0,0,1,0,0,0,0,106,Forwarded,Yes
+60,CE 309,Design of Steel Structures,0,5,15,27,35,18,6,0,0,0,0,0,0,0,106,Forwarded,Yes
+61,CE 320,Engineering Hydrology,0,13,13,55,21,3,1,0,0,0,0,0,0,0,106,Forwarded,Yes
+62,CE 321,Hydrology Laboratory,0,49,46,10,0,0,0,0,0,0,0,0,0,0,105,Forwarded,Yes
+63,CE 322,Transportation Engineering II,1,3,19,31,17,18,11,6,0,0,0,0,0,0,106,Forwarded,Yes
+64,CE 323,"Transportation Engineering II
+- Laboratory",0,4,50,40,11,1,0,0,0,0,0,0,0,0,106,Forwarded,Yes
+65,CE 324,Mathematical Concepts and Applications in Civil Engineering,4,13,24,26,18,10,8,3,0,0,0,0,0,0,106,Forwarded,Yes
+66,CE 499,BTP Phase II,1,47,15,24,2,2,1,4,0,0,0,4,0,0,100,Forwarded,Yes
+67,CE 504,Advanced Structural Design,0,7,13,11,6,8,9,9,0,0,6,0,0,1,70,Forwarded,Yes
+68,CE 510,Quality and Safety Management in Construction,0,1,4,5,2,0,0,0,0,0,0,0,0,0,12,Forwarded,Yes
+69,CE 511,Analysis and Design of Bridges,0,2,6,4,10,3,2,2,0,0,1,0,0,2,32,Forwarded,Yes
+70,CE 524,Biological Process in Environmental Engineering,0,0,2,0,3,6,3,2,1,0,3,0,0,1,21,Forwarded,No
+71,CE 525,Solids and Hazardous Waste,0,2,7,8,4,7,0,0,0,0,0,0,0,0,28,Forwarded,Yes
+72,CE 533,Advance Foundation Engineering,0,0,0,17,6,0,0,0,0,0,0,0,0,0,23,Forwarded,Yes
+73,CE 534,Seminar Course,0,15,7,0,0,0,0,0,0,0,0,0,0,0,22,Forwarded,Yes
+74,CE 544,Project Management Laboratory,0,1,8,1,0,0,0,0,0,0,0,0,0,0,10,Forwarded,Yes
+75,CE 550,Project and Thesis Phase II,0,0,0,0,0,0,0,0,0,0,0,21,0,0,21,Forwarded,Yes
+76,CE 552,"Water Resources Systems Analysis, planning & Management",1,7,6,10,5,2,3,1,0,0,0,0,0,0,35,Forwarded,Yes
+77,CE 556,Subsurface Hydrology,0,0,3,9,3,3,1,1,0,0,0,0,0,0,20,Forwarded,Yes
+78,CE 559,Watershed Management and Remote Sensing Applications,2,8,19,26,29,23,25,17,0,0,1,0,0,0,150,Forwarded,Yes
+79,CE 562,Transient Flow Analysis,0,5,4,4,6,2,1,0,0,0,0,0,0,0,22,Forwarded,Yes
+80,CE 570,River Engineering,0,2,8,5,7,2,0,0,0,0,1,0,0,0,25,Forwarded,Yes
+81,CE 573,Seismic Evaluation and Retrofitting of Structures,0,0,3,9,9,3,1,0,0,0,1,0,0,0,26,Forwarded,Yes
+82,CE 583,Pavement Analysis and Design,0,0,1,7,9,4,0,0,0,0,0,0,0,0,21,Forwarded,Yes
+83,CE 584,Traffic Engineering,1,3,7,4,7,1,0,0,0,0,0,0,0,0,23,Forwarded,Yes
+84,CE 585,Credit Seminar,0,2,4,10,2,1,0,0,0,0,0,0,0,0,19,Forwarded,Yes
+85,CE 594,Geohazards Science and Engineering,0,4,1,3,3,1,1,0,0,0,0,0,0,0,13,Forwarded,Yes
+86,CE 595,Advanced Techniques in Geosciences,0,1,3,2,1,1,3,1,0,0,0,0,0,0,12,Forwarded,No
+87,CE 599,M Tech Project Phase II,0,0,0,0,0,0,0,0,0,0,0,11,0,0,11,Forwarded,Yes
+88,CE 606,Earthquake Engineering,0,4,8,3,1,5,4,0,0,0,1,0,0,0,26,Forwarded,Yes
+89,CE 607,Random Vibration,0,2,6,9,3,2,2,0,0,0,0,0,0,1,25,Forwarded,Yes
+90,CE 609,Computation Plasticity,0,1,3,2,3,0,0,0,0,0,1,0,0,0,10,Forwarded,Yes
+91,CE 612,Advanced Concrete Technology,0,3,3,7,9,5,0,0,0,0,0,0,0,0,27,Forwarded,Yes
+92,CE 614,Financing Infrastructure Projects,0,0,1,3,3,1,0,0,0,0,0,0,0,0,8,Forwarded,Yes
+93,CE 615,Design of Masonry Structures,0,2,1,1,1,0,0,0,0,0,0,0,0,0,5,Forwarded,Yes
+94,CE 616,Blast and Impact Resistant Design,0,49,53,25,4,0,0,0,0,0,0,0,0,0,131,Forwarded,No
+95,CE 617,Discrete Choice Modelling,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,Forwarded,Yes
+96,CE 618,Mechanics of Unsaturated Soils,0,4,2,1,0,0,0,0,0,0,0,0,0,0,7,Forwarded,Yes
+97,CE 620,Advanced Quantitative Techniques in Construction Management,0,1,4,2,1,0,0,0,0,0,0,0,0,0,8,Forwarded,Yes
+98,CE 622,Geometric Design of Transportation Facilities,1,0,4,9,6,2,1,0,0,0,0,0,0,0,23,Forwarded,Yes
+99,CE 623,"Pavement Evaluation, Rehabilitation and Maintenance",1,3,5,8,4,0,1,0,0,0,0,0,0,0,22,Forwarded,Yes
+100,CE 643,Earthquake Geotechnical Engineering,2,5,13,10,8,4,0,2,0,0,0,0,0,0,44,Forwarded,Yes
+101,CE 646,Rock Mechanics,0,10,15,14,1,1,0,0,0,0,1,0,0,0,42,Forwarded,No
+102,CE 647,Environmental Geotechnology,0,2,2,3,0,0,0,0,0,0,0,0,0,0,7,Forwarded,Yes
+103,CE 648,Applied Soil Mechanics,1,5,4,3,3,4,5,6,0,0,0,0,0,0,31,Forwarded,Yes
+104,CE 649,Ground improvement techniques,6,25,29,44,11,1,0,0,0,0,0,0,0,0,116,Forwarded,Yes
+105,CE 661,Air Quality Modeling,0,0,3,4,7,5,0,0,0,0,0,0,1,0,20,Forwarded,Yes
+106,CE 664,Industrial Wastewater Pollution Control,0,2,3,4,5,4,1,1,0,0,0,0,0,0,20,Forwarded,No
+107,CE 691,M Tech Project  II,0,0,0,0,0,0,0,0,0,0,0,18,0,0,18,Forwarded,Yes
+108,CE 693,Project and Thesis Phase II,0,0,0,0,0,0,0,0,0,0,0,17,0,0,17,Forwarded,Yes
+109,CE 695,M Tech Project  II,0,0,0,0,0,0,0,0,0,0,0,7,0,0,7,Forwarded,Yes
+110,CE 697,Project and Dissertation,0,0,0,0,0,0,0,0,0,0,0,21,0,0,21,Forwarded,Yes
+111,CE 699,Project and Thesis Phase II,0,1,0,0,0,0,0,0,0,0,0,24,0,0,25,Forwarded,Yes
+112,CH 211,Industrial Chemistry,2,11,16,16,9,5,0,1,0,0,0,0,0,0,60,Forwarded,Yes
+113,CH 222,Applied Organic Chemistry,0,2,10,14,11,8,9,7,0,0,0,0,0,0,61,Forwarded,Yes
+114,CH 223,Chemical Technology Lab - I (Organic),0,24,14,12,7,0,0,0,0,0,0,0,0,0,57,Forwarded,Yes
+115,CH 224,Group Theory,1,11,17,8,6,4,5,6,0,0,0,0,0,0,58,Forwarded,Yes
+116,CH 233,Spectroscopic Techniques in Chemistry,1,3,15,16,7,5,1,2,0,0,7,0,0,0,57,Forwarded,Yes
+117,CH 323,Polymer Chemistry,0,7,14,19,12,2,0,0,0,0,0,0,0,0,54,Forwarded,Yes
+118,CH 332,Computational Chemistry,1,14,14,5,11,2,4,3,0,0,0,0,0,0,54,Forwarded,Yes
+119,CH 334,Chemical Technology Lab - III (Physical),0,9,13,18,11,3,0,0,0,0,0,0,0,0,54,Forwarded,Yes
+120,CH 335,Application of Nanomaterials,1,12,11,23,3,4,0,0,0,0,0,0,0,0,54,Forwarded,Yes
+121,CH 400,Computers and Chemistry,1,6,14,14,12,10,0,0,1,0,0,0,0,0,58,Forwarded,Yes
+122,CH 411,Inorganic Reaction Mechanism and Organometallics,0,3,7,14,6,12,7,7,0,0,1,1,0,0,58,Forwarded,Yes
+123,CH 418,Biological Chemistry of Metal Ions,0,24,31,0,0,0,0,0,0,0,0,0,0,0,55,Forwarded,No
+124,CH 419,Consumer Chemistry,6,15,52,67,55,36,20,9,0,0,7,3,0,0,270,Forwarded,Yes
+125,CH 421,Organic Reactions Mechanisms,0,1,12,21,17,4,0,2,1,0,0,0,0,0,58,Forwarded,Yes
+126,CH 425,Organic Chemistry Laboratory,0,13,31,9,1,2,0,0,2,0,0,0,0,0,58,Forwarded,Yes
+127,CH 428,Drug Design and Development,0,8,21,16,7,0,0,0,0,0,0,0,0,0,52,Forwarded,Yes
+128,CH 432,Chemical Dynamics and Electrochemistry,0,1,3,4,17,14,12,5,1,0,1,0,0,0,58,Forwarded,Yes
+129,CH 433,Applications of Spectroscopy,0,0,8,13,28,6,1,1,1,0,0,0,0,0,58,Forwarded,Yes
+130,CH 437,Chemical Approaches to Nanoscale Science and Technology,3,6,12,12,12,6,3,0,0,0,0,0,0,0,54,Forwarded,Yes
+131,CH 438,Application to Statistical Mechanics to Chemistry,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Forwarded,Yes
+132,CH 499,Project - II,0,25,12,4,7,4,3,0,0,0,0,0,0,0,55,Forwarded,Yes
+133,CH 500,Graduate Seminar,0,24,33,2,0,0,0,0,0,0,0,0,0,0,59,Forwarded,Yes
+134,CH 600,Project,0,27,28,2,0,2,0,0,0,0,0,0,0,0,59,Forwarded,Yes
+135,CH 603,Concepts of Molecular Machine,0,7,6,0,0,0,0,0,0,0,0,0,0,0,13,Forwarded,Yes
+136,CH 613,Applied Inorganic Chemistry,0,25,16,12,8,3,0,0,0,0,0,0,0,0,64,Forwarded,Yes
+137,CH 617,Organometallics,0,9,10,5,3,1,0,0,1,0,0,0,0,1,30,Forwarded,Yes
+138,CH 618,Bio-inorganic Chemistry,0,5,4,1,0,0,0,0,2,0,0,0,0,0,12,Forwarded,Yes
+139,CH 621,Modern Reagents in Organic Synthesis,0,17,19,11,5,5,0,0,0,0,0,0,0,0,57,Forwarded,Yes
+140,CH 627,New Reagents for Organic Synthesis,0,10,11,5,5,1,0,0,0,0,0,0,0,0,32,Forwarded,Yes
+141,CH 629,Advances in Bio-organic Chemistry,1,1,4,2,3,0,0,0,0,0,0,0,0,0,11,Forwarded,Yes
+142,CH 631,Advanced Quantum Chemistry,4,8,2,0,0,0,0,0,0,0,0,0,0,0,14,Forwarded,Yes
+143,CH 639,Principles and Applications of Molecular Fluorescence,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Forwarded,No
+144,CH 644,Applied Quantum Chemistry,0,3,2,1,1,1,0,0,0,0,0,0,0,0,8,Forwarded,Yes
+145,CL 205,Mass Transfer Operations I,0,2,6,31,25,18,7,1,0,0,0,0,0,0,90,Forwarded,Yes
+146,CL 206,Solid Fluid Operations,0,52,29,8,1,0,0,0,0,0,0,0,0,0,90,Forwarded,Yes
+147,CL 207,Computer Aided Numerical Methods,3,11,18,31,18,9,0,0,0,0,0,0,0,0,90,Forwarded,No
+148,CL 208,Chemical Reaction Engineering I,0,7,10,27,20,18,7,1,0,0,0,0,0,0,90,Forwarded,Yes
+149,CL 209,Process Equipment Design I,0,16,31,27,12,4,0,0,0,0,0,0,0,0,90,Forwarded,Yes
+150,CL 210H,Laboratory 1: Fluid Mechanics,0,25,32,31,2,0,0,0,0,0,0,0,0,0,90,Forwarded,Yes
+151,CL 211H,Laboratory 2: Heat Transfer,0,32,54,3,1,0,0,0,0,0,0,0,0,0,90,Forwarded,Yes
+152,CL 304,Chemical Process Technology,1,13,13,33,17,8,7,2,0,0,0,0,0,0,94,Forwarded,Yes
+153,CL 305,Transport Phenomena,0,6,17,16,45,5,1,0,0,3,1,0,0,0,94,Forwarded,Yes
+154,CL 306,Process Engineering & Economics,8,16,28,17,14,5,2,4,0,0,0,0,0,0,94,Forwarded,Yes
+155,CL 312,Computer Aided Process Equipmen Design,0,7,18,20,25,17,7,0,0,0,0,0,0,0,94,Forwarded,Yes
+156,CL 313,Laboratory 4: Mass Transfer,0,1,3,23,28,36,2,1,0,0,0,0,0,0,94,Forwarded,Yes
+157,CL 314H,Laboratory 5: Reaction Engineering,1,20,36,22,11,3,1,0,0,0,0,0,0,0,94,Forwarded,Yes
+158,CL 315H,Laboratory 6: Process Control,0,10,22,24,26,10,1,0,0,0,0,0,0,0,93,Forwarded,Yes
+159,CL 399,General Learning of Chemical Engineering Research Project - II,0,3,1,1,0,0,0,0,0,0,0,0,0,0,5,Forwarded,Yes
+160,CL 499,Project II,0,20,12,9,10,2,1,3,1,0,0,1,0,0,59,Forwarded,Yes
+161,CL 503,Advanced Thermodynamics,0,4,8,19,8,4,1,0,0,0,1,0,0,0,45,Forwarded,No
+162,CL 504,Advanced reaction Engineering,3,10,15,11,2,2,0,0,0,0,1,0,0,0,44,Forwarded,Yes
+163,CL 505,Petroleum Production Engineering,0,1,5,9,4,4,0,0,0,0,1,0,0,0,24,Forwarded,Yes
+164,CL 506,Smart Materials,1,3,4,2,2,4,0,0,1,0,0,0,0,0,17,Forwarded,Yes
+165,CL 514,Fundamentals of Material Science & Engineering,0,4,6,5,3,0,1,0,3,0,0,0,0,0,22,Forwarded,Yes
+166,CL 598,Petroleum Laboratory,0,23,0,0,0,0,0,0,0,0,0,0,0,0,23,Forwarded,Yes
+167,CL 599,Scientific Communications,0,12,11,13,5,2,0,0,0,0,1,0,0,0,44,Forwarded,Yes
+168,CL 611,Advanced Process Control,1,1,4,7,11,18,21,12,0,0,0,0,0,1,76,Forwarded,Yes
+169,CL 613,Computational Fluid Dynamics,0,0,1,3,2,0,0,0,1,0,0,0,0,3,10,Forwarded,Yes
+170,CL 617,Petrochemicals,1,3,3,5,1,1,0,0,0,0,0,0,0,0,14,Forwarded,Yes
+171,CL 619,Refinery process design,0,1,1,0,0,0,0,1,0,0,0,0,0,1,4,Forwarded,Yes
+172,CL 622,Molecular simulations: Principles and Applications,0,3,0,2,3,1,1,0,1,0,0,0,0,0,11,Forwarded,Yes
+173,CL 625,Fundamentals of micro- nanofluidics & microfabrication,4,5,4,2,0,0,0,0,0,0,0,0,0,2,17,Forwarded,Yes
+174,CL 633,Applied Statistical Thermodynamics,1,6,8,6,15,18,9,6,1,0,0,0,0,0,70,Forwarded,Yes
+175,CL 643,Computer aided applied optimization,2,13,17,14,7,6,2,0,0,1,0,5,0,0,67,Forwarded,Yes
+176,CL 653,Applications of Artificial Intelligence and Machine Learning in Chemical Engineering,3,6,16,42,35,14,11,5,0,3,0,0,1,0,136,Forwarded,Yes
+177,CL 654,Multiscale Modelling and Simulation,0,3,11,17,10,7,5,2,0,0,0,0,0,0,55,Forwarded,Yes
+178,COS 01,CoS 01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,Forwarded,Yes
+179,CoS 02,CoS 02,0,0,0,0,0,0,0,0,0,0,0,0,7,4,11,Forwarded,Yes
+180,CoS 04,CoS 04,0,0,0,0,0,0,0,0,0,0,0,0,149,571,720,Forwarded,Yes
+181,COS 05,CoS 05,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,Forwarded,Yes
+182,COS 06,CoS 06,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6,Forwarded,Yes
+183,CS 101,Introduction to Computing,3,62,102,163,154,126,139,144,0,0,126,0,0,0,1019,Forwarded,Yes
+184,CS 110,Computing Laboratory,0,168,270,163,154,160,39,40,0,0,5,0,0,0,999,Forwarded,Yes
+185,CS 205,"Formal Languages, Automata Theory, and Computation",4,7,20,25,26,13,11,11,0,0,5,0,0,0,122,Forwarded,Yes
+186,CS 206M,Datastructures and Algorithms,0,1,4,26,12,4,2,0,0,0,0,0,1,1,51,Forwarded,Yes
+187,CS 207,Design and Analysis of Algorithms,0,3,29,35,29,13,8,7,0,0,6,0,0,0,130,Forwarded,No
+188,CS 223,Computer Architecture and Organization,5,17,44,42,37,23,17,13,0,1,11,0,0,2,212,Forwarded,Yes
+189,CS 224,Hardware Lab,0,11,14,27,49,10,12,0,0,0,0,0,0,0,123,Forwarded,No
+190,CS 245,Database Management Systems,2,36,62,41,37,10,5,7,0,1,0,2,0,0,203,Forwarded,Yes
+191,CS 246,Database Management Systems Lab,0,22,30,81,41,22,2,3,0,0,0,0,0,0,201,Forwarded,Yes
+192,CS 321,Smart Systems Laboratory,0,8,6,3,1,2,2,0,0,0,0,0,0,0,22,Forwarded,Yes
+193,CS 331,Programming Languages Lab,1,22,43,28,8,1,0,0,0,0,0,0,0,0,103,Forwarded,Yes
+194,CS 345,Software Engineering,0,13,40,61,7,2,0,1,0,0,0,0,0,0,124,Forwarded,Yes
+195,CS 346,Software Engineering Lab,0,43,72,9,0,0,0,0,0,0,0,0,0,0,124,Forwarded,No
+196,CS 348,Implementation of Programming Languages Lab,0,59,61,3,1,1,0,0,2,0,0,0,0,0,127,Forwarded,Yes
+197,CS 350M,Computer Systems,0,0,4,9,11,7,6,3,2,0,0,0,0,0,42,Forwarded,Yes
+198,CS 361,Machine Learning,0,12,7,29,30,23,12,9,0,0,2,0,0,0,124,Forwarded,Yes
+199,CS 499,Project II,2,14,19,15,8,9,0,0,0,0,1,1,0,0,69,Forwarded,Yes
+200,CS 508,Optimization Methods,0,4,8,11,9,9,1,2,0,0,1,0,0,0,45,Forwarded,Yes
+201,CS 528,High Performance Computing,0,12,20,26,41,9,4,3,1,0,0,0,0,0,116,Forwarded,Yes
+202,CS 544,Topics in Networks,0,0,7,13,10,8,6,2,0,0,3,0,1,0,50,Forwarded,Yes
+203,CS 558,Computer Systems Lab,4,16,34,6,2,0,0,0,0,0,5,0,0,0,67,Forwarded,Yes
+204,CS 560,Virtual and Augmented Reality Systems,0,2,6,13,12,9,4,1,0,0,1,0,0,0,48,Forwarded,Yes
+205,CS 561,Artificial Intelligence,3,10,26,33,19,16,15,5,3,0,3,0,0,0,133,Forwarded,Yes
+206,CS 563,Neural Networks for NLP,0,5,0,11,1,4,0,4,0,0,0,0,0,0,25,Forwarded,No
+207,CS 564,Computational Complexity,0,6,0,3,1,4,3,2,0,0,11,0,0,0,30,Forwarded,Yes
+208,CS 577,C Based VLSI Design,0,18,24,42,25,24,21,16,0,0,7,0,2,4,183,Forwarded,Yes
+209,CS 581,Blockchain science and technology,0,24,8,10,8,15,16,6,0,0,0,14,0,0,101,Forwarded,No
+210,DA 213,Python Programming Laboratory,0,4,6,9,5,4,4,1,0,0,0,0,0,0,33,Forwarded,Yes
+211,DA 214,Database Management Systems,0,3,9,16,4,1,0,0,0,0,0,0,1,2,36,Forwarded,No
+212,DA 215,Database Management Systems Laboratory,0,7,10,9,4,2,1,0,0,0,0,0,0,0,33,Forwarded,No
+213,DA 221,Introduction to  Artificial Intelligence,0,12,4,10,5,2,0,0,0,0,0,0,0,0,33,Forwarded,Yes
+214,DA 221M,Artificial Intelligence,1,3,8,12,11,5,3,1,0,0,0,0,0,10,54,Forwarded,Yes
+215,DA 243,Introduction to Optimization,2,3,7,8,4,4,3,2,0,0,0,0,0,0,33,Forwarded,No
+216,DA 244,Applied Probability and Random Processes,3,3,7,6,7,1,2,1,0,0,3,0,1,0,34,Forwarded,No
+217,DA 312,Advanced Machine Learning Laboratory,0,4,7,8,3,0,0,0,0,0,0,0,0,0,22,Forwarded,Yes
+218,DA 322M,Deep Learning,0,3,8,9,8,7,2,4,0,0,3,0,1,3,48,Forwarded,No
+219,DA 323,Multi-modal Data Processing and Learning - II,0,2,5,8,4,3,0,0,0,0,0,0,0,0,22,Forwarded,No
+220,DA 324,Data Mining,0,5,10,6,1,0,0,0,0,0,0,0,0,0,22,Forwarded,Yes
+221,DA 325,Deep Learning,0,2,3,11,3,3,0,0,0,0,0,0,0,0,22,Forwarded,Yes
+222,DA 332,Data Visualization,0,6,4,10,2,0,0,0,0,0,0,0,0,0,22,Forwarded,Yes
+223,DA 352,Privacy and Information Security,0,3,1,5,4,1,7,0,0,0,1,0,0,2,24,Forwarded,No
+224,DA 353,Internet of Things,0,6,5,5,3,2,0,1,0,0,0,0,0,0,22,Forwarded,Yes
+225,DA 526,Image Processing with Machine Learning,0,6,9,16,22,7,6,0,0,0,4,0,0,0,70,Forwarded,Yes
+226,DA 531,Data Visualization Lab,0,6,2,4,3,2,0,0,1,0,0,0,0,0,18,Forwarded,Yes
+227,DA 623,Computing with Signals,0,11,15,19,21,9,5,3,0,0,0,0,0,2,85,Forwarded,No
+228,DA 624,NLP with Large Language Models,0,7,13,15,7,0,0,0,0,0,3,0,7,4,56,Forwarded,No
+229,DA 671,Introduction to Reinforcement Learning,0,0,1,0,0,0,0,0,0,0,1,0,0,8,10,Forwarded,Yes
+230,DD 111,"Forms, Order and Structure",0,28,19,8,0,0,0,0,0,0,0,0,0,0,55,Forwarded,No
+231,DD 112,Principles of Visual Design,0,4,13,15,19,4,0,0,0,0,0,0,0,0,55,Forwarded,No
+232,DD 113,Visualization and Illustrations,3,4,4,6,7,21,7,3,0,0,0,0,0,0,55,Forwarded,No
+233,DD 212,Visual Narratives,3,8,15,14,7,3,2,0,0,0,0,0,0,0,52,Forwarded,No
+234,DD 213,Art and Aesthetics in Design,0,0,13,14,12,6,3,4,0,0,0,0,0,0,52,Forwarded,No
+235,DD 214,Design Workshop,1,25,16,11,0,0,0,0,0,0,0,0,0,0,53,Forwarded,No
+236,DD 215,Cognitive Ergonomics,0,4,15,18,5,8,2,0,0,0,0,0,0,0,52,Forwarded,No
+237,DD 220M,Introduction to Ergonomics,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,Forwarded,No
+238,DD 303,Typography and Grid Systems,0,9,16,8,8,5,5,1,0,0,0,0,0,0,52,Forwarded,No
+239,DD 311,Systems approach to Design,0,12,36,13,0,0,1,0,0,0,0,0,0,0,62,Forwarded,No
+240,DD 312,Design Evaluation Methods,0,3,32,28,0,0,0,0,0,0,0,0,0,0,63,Not Processed,No
+241,DD 320M,Product Planning and Strategy,0,7,5,3,3,0,0,0,0,0,0,0,0,1,19,Forwarded,No
+242,DD 324,(PD) Plastics & Composites,0,2,2,2,0,0,0,0,0,0,1,0,0,0,7,Forwarded,No
+243,DD 325,(VC) Graphic Communication,3,8,12,11,4,5,2,1,0,0,0,0,0,0,46,Forwarded,No
+244,DD 326,(TD) Introduction to Automobile Design,0,6,3,0,0,1,0,0,0,0,0,0,0,3,13,Forwarded,No
+245,DD 398,BDes Project II,3,27,18,7,3,1,0,1,0,0,0,4,0,0,64,Forwarded,No
+246,DD 411,Design and Entrepreneurship,0,37,13,4,0,0,0,0,0,0,0,0,0,1,55,Forwarded,No
+247,DD 498,Design Project III,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Forwarded,No
+248,DD 499,BDes Project IV,4,23,9,7,4,2,2,0,0,0,0,1,0,0,52,Forwarded,No
+249,DD 505,Form Studies,0,2,7,13,9,2,0,0,0,0,0,0,0,0,33,Forwarded,No
+250,DD 506,Graphic Design,0,7,13,8,4,0,0,0,0,0,0,0,0,0,32,Forwarded,No
+251,DD 507,Design Project,3,16,9,4,0,0,0,0,0,0,0,0,0,0,32,Forwarded,No
+252,DD 509,Interaction Design,0,7,7,12,8,12,6,5,0,0,0,0,0,0,57,Forwarded,No
+253,DD 517,Automobile Design,0,1,0,0,0,0,0,0,0,0,0,0,0,4,5,Forwarded,No
+254,DD 524,Graphic Design Studio,0,2,15,7,0,0,0,0,0,0,0,0,0,0,24,Forwarded,No
+255,DD 531,Game Design,1,1,5,7,0,0,0,0,0,0,0,0,0,8,22,Forwarded,No
+256,DD 532,Motion Graphics,3,9,9,1,1,0,0,0,0,0,0,0,0,0,23,Forwarded,No
+257,DD 546,Product Form and Structures,0,0,2,4,9,6,3,1,0,0,0,0,0,0,25,Forwarded,No
+258,DD 547,Design for Environmental Sustainability,0,2,15,7,0,0,0,1,0,0,0,0,0,0,25,Forwarded,No
+259,DD 548,Embodiment Design,0,6,5,9,3,2,1,0,0,0,0,0,0,0,26,Forwarded,No
+260,DD 549,Systems thinking,0,3,18,4,0,0,0,0,0,0,0,0,0,2,27,Forwarded,No
+261,DD 552,Design of Embedded Systems,1,4,9,8,5,0,0,0,0,0,0,0,0,1,28,Forwarded,No
+262,DD 554,Pattern Recognition and Machine Learning,0,1,1,2,0,0,0,0,0,0,0,0,0,0,4,Forwarded,No
+263,DD 558,Design for Social Innovation,1,12,9,9,5,3,2,1,0,0,0,0,0,2,44,Forwarded,No
+264,DD 559,Design for Additive Manufacturing (DfAM),0,8,11,14,11,5,0,0,0,0,0,0,0,1,50,Forwarded,No
+265,DD 606,Product Detailing,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Forwarded,No
+266,DD 710,Research-based Project,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Forwarded,No
+267,DM 503,Hazards monitoring and prediction,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,Not Processed,No
+268,DM 504,Research methodology and field visit,0,2,0,1,0,0,0,0,0,0,0,0,0,1,4,Not Processed,Yes
+269,DM 514,Financing for Disaster Risk Reduction (DRR),0,5,1,2,7,0,0,0,0,0,0,0,0,0,15,Not Processed,Yes
+270,DM 697,Project Phase 1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Not Processed,Yes
+271,EE 102,Basic Electronics Lab,0,350,442,162,22,11,2,0,3,0,0,0,0,0,992,Forwarded,Yes
+272,EE 206,Analog Circuits,0,9,35,41,37,25,17,17,0,0,3,0,1,0,185,Forwarded,Yes
+273,EE 207,Analog Circuits Laboratory,0,29,58,50,24,19,5,0,0,0,0,0,0,0,185,Forwarded,Yes
+274,EE 213M,Digital Circuits,0,1,6,9,7,4,0,0,0,0,0,0,0,0,27,Forwarded,Yes
+275,EE 230,Probability and Random Processes,1,32,22,38,39,25,19,4,0,0,5,0,0,0,185,Forwarded,Yes
+276,EE 250,Control Systems,0,31,56,23,23,16,14,10,1,0,12,0,0,0,186,Forwarded,Yes
+277,EE 252,Measurement and Instrumentation,3,30,59,43,20,11,8,4,0,0,3,0,0,0,181,Forwarded,Yes
+278,EE 253,Instrumentation Laboratory,0,36,52,62,15,11,6,0,0,0,0,0,0,0,182,Forwarded,Yes
+279,EE 313,Microelectronics Laboratory,0,3,18,49,27,8,5,4,1,0,0,0,0,0,115,Forwarded,Yes
+280,EE 322M,Signal Processing,0,2,1,6,7,6,0,0,0,0,1,0,0,0,23,Forwarded,Yes
+281,EE 332,Digital Communication,1,13,16,34,18,15,12,3,0,0,1,1,0,0,114,Forwarded,Yes
+282,EE 333,Communication and DSP Laboratory,1,31,54,23,3,0,0,0,0,0,1,0,0,0,113,Forwarded,Yes
+283,EE 334,Computer networks,1,10,28,39,12,18,1,2,0,0,1,1,0,0,113,Forwarded,Yes
+284,EE 336,Modelling and Simulation of Stochastic Systems,1,7,3,1,0,0,0,0,0,0,0,0,0,0,12,Forwarded,No
+285,EE 337,Fundamentals of Wireless Communications,0,2,0,1,1,0,0,0,1,0,0,0,0,0,5,Forwarded,Yes
+286,EE 339,Blockchain Science and Technology,0,16,22,36,29,15,0,0,0,0,0,1,0,0,119,Forwarded,Yes
+287,EE 352,Advanced Control System,3,25,36,38,27,13,6,3,1,0,0,1,0,8,161,Forwarded,No
+288,EE 360,Power Electronics,2,4,8,22,14,9,4,1,0,0,0,0,0,0,64,Forwarded,Yes
+289,EE 370,Electrical Power Systems,0,0,4,16,20,12,4,2,0,0,9,0,0,0,67,Forwarded,Yes
+290,EE 371,Advanced Electrical Engg Lab,0,15,21,24,4,1,0,0,0,0,0,0,0,0,65,Forwarded,Yes
+291,EE 381,Electrical Machines Lab,0,21,27,14,3,0,0,0,0,0,0,0,0,0,65,Forwarded,Yes
+292,EE 390,Data structure and algorithms,1,21,47,69,32,3,0,0,0,0,1,1,0,3,178,Forwarded,Yes
+293,EE 396,Design Lab,0,19,32,10,0,0,0,0,0,0,0,0,0,0,61,Forwarded,Yes
+294,EE 399,BTP II (New Curriculum),0,1,5,0,0,0,0,0,4,0,0,0,0,0,10,Forwarded,Yes
+295,EE 499,B. Tech Project-IV,0,2,16,6,3,1,0,0,1,0,0,0,0,0,29,Forwarded,Yes
+296,EE 512,Analog IC Design,0,4,5,15,2,0,0,0,3,1,0,0,3,0,33,Forwarded,No
+297,EE 515,Foundation of VLSI architectures,1,4,2,4,3,3,1,0,3,0,0,0,4,0,25,Forwarded,Yes
+298,EE 516,System hardware design,0,4,4,8,1,1,0,0,3,0,0,0,0,0,21,Forwarded,Yes
+299,EE 517,Analog VLSI Lab,0,6,7,2,0,0,0,0,3,0,0,0,0,0,18,Forwarded,No
+300,EE 521,Digital Signal Processing Lab,1,8,4,1,0,0,0,0,1,0,0,0,0,0,15,Forwarded,Yes
+301,EE 522,Statistical Signal Processing,0,4,4,3,2,0,2,0,0,0,1,0,0,0,16,Forwarded,Yes
+302,EE 525,Advanced Topics in Machine Learning,0,2,3,4,6,0,0,0,1,0,0,0,0,1,17,Forwarded,Yes
+303,EE 526,Machine Learning,1,5,4,7,4,2,0,0,1,0,0,0,0,0,24,Forwarded,Yes
+304,EE 527,Machine Learning Laboratory,1,7,6,2,1,2,0,1,1,0,0,0,0,0,21,Forwarded,Yes
+305,EE 533,Wireless Communications,0,0,1,2,3,5,2,1,0,0,0,0,0,0,14,Forwarded,Yes
+306,EE 535,Data Communication Network,0,1,1,6,3,3,0,0,0,0,0,0,0,0,14,Forwarded,Yes
+307,EE 536,Wireless Communications Design Lab,0,3,5,4,2,0,0,0,0,0,0,0,0,0,14,Forwarded,Yes
+308,EE 540,Advance Electromagnetic Theory  and  Antennas,0,2,1,3,2,1,0,1,0,0,0,0,0,0,10,Forwarded,No
+309,EE 548,RF Laboratory,0,2,3,2,1,0,0,0,0,0,0,0,0,0,8,Forwarded,Yes
+310,EE 549,Photonics Integrated Circuits,0,2,5,2,2,1,0,0,0,0,0,0,0,0,12,Forwarded,Yes
+311,EE 553,Optimal Control,0,2,1,1,0,0,0,3,0,0,2,0,0,0,9,Forwarded,No
+312,EE 554,Nonlinear Systems and Control,0,2,3,3,0,0,0,1,1,0,0,0,0,0,10,Forwarded,Yes
+313,EE 555,Automation Laboratory,1,2,4,0,0,0,0,0,1,0,0,0,0,0,8,Forwarded,No
+314,EE 557,Optimization,0,2,0,0,1,3,1,1,1,0,1,0,0,0,10,Forwarded,No
+315,EE 562,Power Electronics Applications in Power Systems,0,1,3,3,3,3,1,1,0,0,0,0,0,2,17,Forwarded,No
+316,EE 572,Power Engineering Laboratory,0,3,2,2,2,0,0,2,0,0,0,0,0,0,11,Forwarded,No
+317,EE 580,Electrical Machines and Drive Systems,0,1,4,1,3,1,1,0,0,0,2,0,0,0,13,Forwarded,Yes
+318,EE 595H,Stochastic Models,0,3,5,5,3,2,0,0,0,0,0,0,0,0,18,Forwarded,Yes
+319,EE 596H,Optimization Techniques,0,4,5,3,2,2,0,0,0,0,2,0,0,0,18,Forwarded,Yes
+320,EE 602,Adaptive and Learning-based Control,0,1,2,2,1,5,0,1,1,0,0,0,0,0,13,Forwarded,Yes
+321,EE 605,Machine Learning Architectures,4,7,13,23,29,14,3,2,0,0,0,0,0,0,95,Forwarded,Yes
+322,EE 606,Power semiconductor devices,0,1,1,2,4,1,0,0,0,0,0,0,0,2,11,Forwarded,Yes
+323,EE 607,Information Theory,0,1,4,8,1,0,0,0,0,0,0,0,0,0,14,Forwarded,No
+324,EE 611,Organic Semiconductor Devices,0,1,4,5,1,0,0,0,0,0,3,0,0,0,14,Forwarded,Yes
+325,EE 619,Semiconductor material and device characterization,2,2,4,4,9,2,0,1,0,0,0,0,0,0,24,Forwarded,No
+326,EE 620,Image Processing,1,7,20,37,46,20,3,2,0,0,1,0,0,1,138,Forwarded,Yes
+327,EE 622,Biomedical Signal Processing,0,3,7,3,1,1,0,0,2,0,0,0,0,1,18,Forwarded,Yes
+328,EE 624,Speech Technology,0,3,2,3,2,0,1,2,0,0,0,0,0,0,13,Forwarded,Yes
+329,EE 626,Pattern Recognition and Machine Learning,0,3,8,20,21,19,7,7,0,0,2,0,0,0,87,Forwarded,Yes
+330,EE 632,Advanced Topics in Communication Systems,0,2,3,6,3,1,0,0,0,0,0,0,0,0,15,Forwarded,Yes
+331,EE 633,Error Control Codes,1,5,3,0,0,3,3,0,0,0,0,0,0,1,16,Forwarded,Yes
+332,EE 634,MIMO Wireless Communications:Fundamentals and Advances,0,2,3,7,4,2,0,0,0,0,0,0,0,0,18,Forwarded,Yes
+333,EE 643,Silicon Photonics,0,2,2,1,1,2,0,0,0,0,0,0,0,0,8,Forwarded,Yes
+334,EE 659,Fuzzy Logic and Neural Networks,0,15,17,34,17,12,4,2,1,0,0,0,0,1,103,Forwarded,Yes
+335,EE 661,Power Electronics for Renewable Energy Systems,0,4,12,18,41,22,12,13,0,0,2,0,0,1,125,Forwarded,No
+336,EE 665,Power Electronic Systems for Electric Vehicles,0,5,4,6,6,1,3,0,0,0,2,0,0,0,27,Forwarded,Yes
+337,EE 676,Advanced Power System Monitoring,1,13,19,20,11,5,4,4,0,0,0,0,0,0,77,Forwarded,Yes
+338,EE 699,MTP Phase II,0,1,0,2,1,1,0,0,0,0,0,84,0,0,89,Forwarded,Yes
+339,EE 722,Video Analytics,0,4,2,9,5,2,0,0,1,0,0,0,0,0,23,Forwarded,Yes
+340,EM 597,Project phase 1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Forwarded,#N/A
+341,EN 206,Heat and Mass Transfer,0,1,6,3,5,1,0,0,0,0,0,0,0,0,16,Forwarded,Yes
+342,EN 207,"Biomass, Biofuels and Biorefinery",0,0,8,5,3,0,0,0,0,0,0,0,0,0,16,Forwarded,Yes
+343,EN 208,Control and Instrumentation,0,6,7,2,1,0,0,0,0,0,0,0,0,0,16,Forwarded,Yes
+344,EN 209,Energy and Sustainability,0,3,4,5,1,3,0,0,0,0,0,0,0,0,16,Forwarded,Yes
+345,EN 210,Thermo-Fluid and Heat Transfer Laboratory,0,9,7,0,0,0,0,0,0,0,0,0,0,0,16,Forwarded,Yes
+346,EN 211,Community Engagement and Entrepreneurship Program,0,12,4,0,0,0,0,0,0,0,0,0,0,0,16,Forwarded,Yes
+347,EN 667,Advanced Energy Systems,0,3,4,0,4,0,0,0,0,0,0,0,0,0,11,Forwarded,Yes
+348,EN 671,Solar Energy Conversion Technology,0,2,5,5,2,0,0,0,0,0,0,0,0,0,14,Forwarded,Yes
+349,EN 674,"Energy Economics, Planning and Management",0,5,4,5,1,1,0,0,0,0,0,0,0,4,20,Forwarded,Yes
+350,EN 697,Project 1,0,2,6,3,0,0,0,0,0,0,0,0,0,0,11,Forwarded,Yes
+351,HS 107,Problems of Philosophy,2,3,13,16,29,19,6,2,0,0,0,0,0,0,90,Forwarded,Yes
+352,HS 123,Game Theory and Economics,0,10,25,21,14,10,7,3,0,0,2,0,0,0,92,Forwarded,Yes
+353,HS 125,Introductory Macroeconomics,0,26,59,31,11,0,0,0,0,0,0,0,0,0,127,Forwarded,Yes
+354,HS 131,Introduction to Linguistics,0,6,6,10,19,22,15,10,0,0,0,0,0,0,88,Forwarded,Yes
+355,HS 134,Introduction to Archaeology,0,2,7,6,20,17,9,3,3,0,0,0,0,0,67,Forwarded,Yes
+356,HS 135,Topics in Bilingualism,0,13,15,33,28,15,5,5,0,0,0,0,0,0,114,Forwarded,Yes
+357,HS 136,Introduction to Indian Constitution and Political Processes,3,13,32,31,23,12,2,0,0,0,0,0,0,0,116,Forwarded,Yes
+358,HS 138,Psychology of Well Being,0,8,14,23,27,16,20,7,0,0,0,0,0,0,115,Forwarded,Yes
+359,HS 139,The Short Story: Theory and Perspectives,0,0,1,11,8,16,13,7,1,0,1,0,0,0,58,Forwarded,Yes
+360,HS 156,Economics of Health and Education,0,8,22,24,26,20,11,6,0,0,0,0,0,0,117,Forwarded,Yes
+361,HS 200,Sustainable Development Goals,0,0,0,0,0,0,0,0,0,0,0,0,3,936,939,Forwarded,No
+362,HS 202,Modern Western Drama,3,28,50,55,21,17,6,3,0,0,0,0,0,0,183,Forwarded,Yes
+363,HS 218,Ecology and Society,0,11,37,35,18,9,9,1,0,0,0,0,0,0,120,Forwarded,Yes
+364,HS 222,Philosophy of Science,1,4,9,13,17,13,3,0,1,0,0,0,0,0,61,Forwarded,Yes
+365,HS 231M,Comparative Drama,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Forwarded,Yes
+366,HS 233,History of Contemporary India,0,12,27,19,25,17,8,5,0,0,0,0,0,0,113,Forwarded,Yes
+367,HS 235,Writing Systems of the World,0,5,3,0,1,4,3,18,4,0,0,0,0,0,38,Forwarded,Yes
+368,HS 239,Economics of Uncertainty and Information,0,5,6,8,8,12,14,6,0,0,2,0,0,0,61,Forwarded,Yes
+369,HS 247,Engineering Psychology,0,3,8,18,23,42,38,22,0,0,0,0,0,0,154,Forwarded,Yes
+370,HS 248,Indian Literary Theory,2,24,25,45,0,12,9,2,0,0,0,0,0,0,119,Forwarded,Yes
+371,HS 251,Social Choice and Welfare,0,10,18,13,7,3,11,5,0,0,0,0,0,0,67,Forwarded,Yes
+372,HS 320M,Literature and Film: The Word and the Image,0,0,4,1,0,0,0,0,0,0,0,0,0,0,5,Forwarded,Yes
+373,HS 503,Sociology of Development,0,9,18,10,4,0,0,0,0,0,1,0,0,0,42,Forwarded,Yes
+374,HS 513,Transnationalism and Migration: Issues of Development,0,2,6,1,1,2,1,0,0,0,0,0,0,0,13,Forwarded,Yes
+375,HS 517,Comparative Politics of Developing Countries,0,5,8,13,11,3,1,0,1,0,0,0,0,0,42,Forwarded,Yes
+376,HS 521,"Region, Nation and the Making of Post-Colonial India",0,5,5,5,7,14,1,0,0,0,0,0,0,0,37,Forwarded,Yes
+377,HS 523,Economic Development: Theory and Practice,0,2,5,5,8,7,9,5,1,0,0,0,1,0,43,Forwarded,Yes
+378,HS 524,Qualitative Research Methods in Social Sciences,0,5,9,10,10,7,5,0,0,0,1,0,0,0,47,Forwarded,Yes
+379,HS 525,India's Development: Issues and Debates,0,3,7,15,12,4,0,0,0,0,1,0,0,0,42,Forwarded,Yes
+380,HS 526,Conflict and Financial Diplomacy,0,1,1,4,3,3,1,0,0,0,0,0,0,0,13,Forwarded,Yes
+381,HS 551,Foundational Linguistics,0,2,2,5,0,1,0,0,0,0,0,0,0,1,11,Forwarded,Yes
+382,HS 552,Critical Reasoning,0,2,3,1,0,1,0,0,0,0,0,0,0,1,8,Forwarded,Yes
+383,HS 556,Introduction to Literary Studies,0,0,1,5,2,1,1,0,0,0,0,0,0,0,10,Forwarded,Yes
+384,HS 557,"Language, Rhythm and Prosody",0,1,0,2,3,0,0,0,0,0,0,0,0,0,6,Forwarded,Yes
+385,HS 559,Indian Literary Theory,0,1,4,1,0,2,0,0,0,0,0,0,0,0,8,Forwarded,No
+386,HS 561,Historical Studies,0,0,2,4,4,0,0,0,0,0,0,0,0,0,10,Forwarded,Yes
+387,HS 562,International Relations and Diplomacy,0,3,3,6,1,2,0,0,0,0,0,0,0,0,15,Forwarded,Yes
+388,HS 563,Early Womens Writing in English,0,0,1,2,2,1,0,0,0,0,0,0,0,0,6,Forwarded,Yes
+389,HS 567,Cultural Studies: Concepts and Theories in the Indian Context,0,0,2,5,2,3,3,0,0,0,0,0,0,0,15,Forwarded,Yes
+390,HS 697,Project II,1,3,5,3,1,0,0,0,2,0,0,0,0,0,15,Forwarded,Yes
+391,HS 699,Dissertation,0,6,13,11,9,2,0,0,1,0,0,0,0,0,42,Forwarded,Yes
+392,HS 706,Topics in Economics,0,1,1,1,0,0,0,0,0,0,0,0,0,0,3,Forwarded,Yes
+393,HS 721,Research in Cultural Studies,0,0,2,1,0,0,0,0,0,0,0,0,0,0,3,Forwarded,Yes
+394,HS 726,History of Assam,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Forwarded,Yes
+395,HS 727,Issues in Historical Research,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,Forwarded,Yes
+396,HS 734,Perspectives in Linguistics,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Forwarded,Yes
+397,HS 755,Introduction to Econometrics,0,0,0,3,1,0,0,0,0,0,0,0,0,1,5,Forwarded,Yes
+398,HS 769,RESEARCH METHODS IN LINGUISTICS,0,0,1,2,1,0,0,0,0,0,0,0,0,0,4,Forwarded,Yes
+399,HS 774,Development Planning and Official Statistics in India,0,0,8,0,0,0,0,0,0,0,0,0,0,0,8,Forwarded,Yes
+400,HS 784,Acoustic Analyses of Tone Languages,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,Forwarded,Yes
+401,HT 506,Biotechniques and Bioinstrumentation Laboratory,1,2,15,7,0,0,0,0,0,0,0,0,0,0,25,Forwarded,No
+402,HT 507,Diagnostics & Devices Laboratory,2,3,6,6,0,0,0,0,0,0,0,0,0,0,17,Forwarded,No
+403,HT 508,Product Design and Prototyping Laboratory,0,5,14,6,0,0,0,0,0,0,0,0,0,0,25,Forwarded,No
+404,HT 509,Regenerative Medicine and Stem Cells Laboratory,0,2,4,2,0,0,0,0,0,0,0,0,0,0,8,Forwarded,No
+405,HT 510,Tissue Engineering and Regenerative Medicine,1,3,4,3,0,0,0,0,0,0,0,0,0,0,11,Forwarded,No
+406,HT 511,Stem Cells and Therapeutics,0,3,5,2,0,0,0,0,0,0,1,0,0,0,11,Forwarded,No
+407,HT 601,"Medical Diagnostic Devices, BioMEMS, and Biosensors",2,4,7,5,0,0,0,0,0,0,0,0,0,0,18,Forwarded,No
+408,HT 602,Regulatory Affairs of Biomedical Devices,0,4,10,5,0,0,0,0,0,0,0,0,0,0,19,Forwarded,No
+409,HT 603,Advanced Immunology,1,3,11,11,1,0,0,0,0,0,1,0,0,0,28,Forwarded,No
+410,IFST 017,Joint Degree Dissertation I,0,2,2,1,0,0,0,0,0,0,0,0,0,0,5,Forwarded,Yes
+411,LS 531,Data Structure and Programming,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,Forwarded,No
+412,MA 102,Mathematics - 2,5,13,37,87,122,162,152,176,3,4,198,1,0,0,960,Forwarded,Yes
+413,MA 212M,Mathematical Statistics,1,1,1,2,5,8,2,0,0,0,0,0,0,0,20,Forwarded,Yes
+414,MA 224,Real Analysis,0,8,15,14,12,15,9,6,0,0,1,0,0,0,80,Forwarded,Yes
+415,MA 252,Design and Analysis of Algorithms,0,4,13,15,21,19,8,8,0,0,0,0,0,0,88,Forwarded,Yes
+416,MA 271,Financial Engineering  I,0,3,11,19,27,11,5,3,0,0,0,0,1,4,84,Forwarded,Yes
+417,MA 312M,Modern Algebra,1,2,4,2,1,7,6,4,2,0,0,0,0,0,29,Forwarded,yes
+418,MA 322,Scientific Computing,2,8,11,9,18,17,15,0,0,0,0,0,0,0,80,Forwarded,yes
+419,MA 324,Statistical Inference and Multivariate Analysis,2,3,5,12,15,32,9,0,0,0,0,0,0,0,78,Forwarded,Yes
+420,MA 351,Theory of Computation,0,2,4,7,8,13,27,17,0,0,3,0,0,0,81,Forwarded,Yes
+421,MA 373,Financial Engineering  II,0,12,9,20,18,7,10,2,0,0,0,0,0,0,78,Forwarded,Yes
+422,MA 374,Financial Engineering Laboratory,1,6,19,10,16,25,1,0,0,0,0,0,0,0,78,Forwarded,Yes
+423,MA 424,Advanced Linear Algebra,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Forwarded,yes
+424,MA 499,Project  II,4,41,7,16,7,2,1,1,0,0,0,0,0,0,79,Forwarded,No
+425,MA 506,Number Theory and Cryptography,0,3,3,4,3,1,0,0,0,0,0,0,0,2,16,Forwarded,Yes
+426,MA 512,Data Structures and Algorithms,1,3,2,2,4,1,6,9,2,0,0,0,0,0,30,Forwarded,yes
+427,MA 542,Differential Equations,0,1,3,8,9,5,1,1,1,0,1,0,0,0,30,Forwarded,yes
+428,MA 547,Complex Analysis,1,6,11,9,20,14,2,3,1,0,2,0,0,0,69,Forwarded,No
+429,MA 548,Ordinary Differential Equations,0,3,2,6,12,2,1,0,0,0,4,0,0,0,30,Forwarded,Yes
+430,MA 549,Topology,0,2,0,0,1,4,6,3,4,0,10,0,0,1,31,Forwarded,Yes
+431,MA 550,Measure Theory,0,0,0,0,1,2,4,1,0,0,0,0,0,0,8,Forwarded,Yes
+432,MA 571,Numerical Linear Algebra,0,2,2,10,12,13,9,7,0,1,5,0,0,1,62,Forwarded,Yes
+433,MA 573,Numerics of Partial Differential Equations,0,0,2,5,22,8,16,3,0,0,4,0,0,0,60,Forwarded,yes
+434,MA 588,R Programming Lab,0,2,6,3,2,2,2,0,1,0,0,0,0,0,18,Forwarded,No
+435,MA 590,Probability Theory,0,5,10,12,17,2,5,2,1,0,6,0,0,0,60,Forwarded,yes
+436,MA 591,Optimization Techniques,1,5,5,2,7,14,9,6,0,0,14,0,0,0,63,Forwarded,Yes
+437,MA 617,Design and Analysis of Algorithms,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Forwarded,Yes
+438,MA 618,Mathematics for Computer Science,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,Forwarded,Yes
+439,MA 619,Data Structures Lab,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Forwarded,Yes
+440,MA 622,Galois Theory,0,1,3,0,2,0,1,2,0,0,3,0,0,0,12,Forwarded,yes
+441,MA 625,Linear Algebra-I,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Forwarded,Yes
+442,MA 641,Operator Theory in Hilbert Spaces,0,1,0,1,2,2,0,0,0,0,1,0,1,2,10,Forwarded,Yes
+443,MA 642,Real Analysis-1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,4,Forwarded,yes
+444,MA 653,Network Science,0,4,7,10,17,15,14,11,0,2,5,0,0,0,85,Forwarded,Yes
+445,MA 654,Advanced Data Structures and Algorithms,0,4,4,6,3,4,4,8,0,0,0,0,3,2,38,Forwarded,Yes
+446,MA 662,Differential Equations,0,1,1,1,0,0,0,0,0,0,0,0,0,0,3,Forwarded,yes
+447,MA 668,Algorithmic and High Frequency Trading,7,6,6,12,21,24,24,7,0,0,0,0,0,0,107,Forwarded,yes
+448,MA 671,Finite Element Methods for Partial Differential Equations,1,4,2,6,4,2,0,3,0,0,0,0,0,0,22,Forwarded,No
+449,MA 682,Statistical Inference,0,0,0,6,9,6,5,6,0,0,0,0,0,0,32,Forwarded,No
+450,MA 684,Advanced Probability,2,1,6,6,8,7,11,8,0,1,12,0,1,0,63,Forwarded,yes
+451,MA 699,Project,0,29,16,7,5,1,0,0,0,0,3,0,0,0,61,Forwarded,Yes
+452,MA 753,Perturbation Techniques,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,Forwarded,yes
+453,MA 781,Statistical Methodologies for Modern Clinical Studies,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Forwarded,No
+454,ME 101,Engineering Mechanics,6,76,120,168,263,197,134,27,3,1,0,1,0,0,996,Forwarded,No
+455,ME 110,Workshop I,0,112,206,174,6,1,0,0,0,0,0,0,0,0,499,Forwarded,Yes
+456,ME 221,Fluid Mechanics II,2,11,13,16,14,16,14,15,0,0,16,0,0,0,117,Forwarded,Yes
+457,ME 222,Manufacturing Technology I,1,9,18,30,39,9,9,3,0,0,0,0,0,0,118,Forwarded,Yes
+458,ME 223,Solid Mechanics II,0,2,3,14,18,23,21,24,0,0,13,0,0,0,118,Forwarded,yes
+459,ME 224,Kinematics of Machinery,1,9,31,44,25,3,2,1,0,0,0,0,0,0,116,Forwarded,Yes
+460,ME 225,Mechanical Workshop II,0,95,20,2,0,0,0,0,3,0,0,0,0,0,120,Forwarded,Yes
+461,ME 226,Mechanical Engineering Lab II,0,21,39,48,9,0,0,0,2,0,0,0,0,0,119,Forwarded,Yes
+462,ME 302M,Fundamentals of Artificial Intelligence,0,2,1,2,2,0,0,0,0,0,0,0,0,5,12,Forwarded,Yes
+463,ME 321,Applied Thermodynamics,2,10,22,30,30,10,5,4,0,0,0,0,0,0,113,Forwarded,Yes
+464,ME 322,Machine Design,0,20,24,40,15,5,4,3,0,0,2,0,0,0,113,Forwarded,No
+465,ME 323,Mechanical Measurements,0,3,21,37,27,17,0,5,0,0,3,0,0,0,113,Forwarded,No
+466,ME 324,Industrial Engineering and Operations Reseach.,0,19,26,32,16,8,4,3,0,0,3,2,0,0,113,Forwarded,yes
+467,ME 325,Control Systems,0,17,19,20,22,13,11,5,1,1,4,0,1,0,114,Forwarded,Yes
+468,ME 326,Mechanical Engineering Lab IV,0,11,43,37,12,6,2,0,0,0,2,2,0,0,115,Forwarded,yes
+469,ME 398,BTech Project-I,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Forwarded,#N/A
+470,ME 399,BTech Project-II,0,14,35,41,12,4,3,1,0,0,0,2,0,0,112,Forwarded,Yes
+471,ME 401,Summer Training,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Forwarded,#N/A
+472,ME 499,Project-II,0,24,33,48,14,1,2,0,0,0,0,0,0,0,122,Forwarded,Yes
+473,ME 503,Technical Writing,0,18,26,29,22,20,6,0,0,0,0,0,1,1,123,Forwarded,yes
+474,ME 511,Engineering Materials and Characterization,0,4,6,18,8,5,1,0,0,0,0,0,0,0,42,Forwarded,yes
+475,ME 513,Physics of Deformation Processes,0,8,13,13,8,5,1,0,0,0,0,0,0,0,48,Forwarded,yes
+476,ME 515,Manufacturing Laboratory,0,15,30,2,0,0,0,0,0,0,0,0,0,0,47,Forwarded,yes
+477,ME 522,Convective Heat Transfer,0,1,2,3,6,2,7,4,1,0,6,0,0,0,32,Forwarded,yes
+478,ME 541,Continuum Mechanics,0,1,0,3,3,1,3,2,1,0,1,0,0,0,15,Forwarded,yes
+479,ME 542,Numerical Analysis,2,9,15,13,5,5,3,4,0,0,1,0,0,0,57,Forwarded,Yes
+480,ME 544,Computational Mechanics Laboratory,0,3,2,5,1,0,0,0,0,0,0,0,0,0,11,Forwarded,yes
+481,ME 552,Aircraft Propulsion,0,7,9,14,9,2,0,0,0,0,0,0,0,1,42,Forwarded,Yes
+482,ME 553,Gas Dynamics,0,1,4,4,5,1,0,0,1,0,0,0,0,0,16,Forwarded,yes
+483,ME 554,Rocket Propulsion,0,1,4,5,0,0,0,0,0,0,0,0,0,0,10,Forwarded,yes
+484,ME 605,Fracture  Fatigue and Failure Analysis,0,3,8,29,22,14,0,1,0,0,0,0,0,0,77,Forwarded,yes
+485,ME 607,Introduction to Composite Materials,0,6,20,23,22,20,13,7,0,0,0,0,0,0,111,Forwarded,Yes
+486,ME 609,Optimization Methods in Engineering,0,8,5,9,12,10,1,1,1,0,2,0,0,0,49,Forwarded,yes
+487,ME 613,Nonlinear Vibration,0,6,3,2,1,3,4,3,0,0,0,2,0,1,25,Forwarded,yes
+488,ME 615,Rotor Dynamics,1,6,7,14,3,2,2,0,0,0,0,0,1,0,36,Forwarded,Yes
+489,ME 617,Manufacturing of Polymers and Polymer Composites,0,3,6,11,2,3,0,0,1,0,0,0,0,0,26,Forwarded,yes
+490,ME 619,Fundamentals of Microfluidics,0,2,4,5,2,5,0,0,0,0,0,0,0,0,18,Forwarded,yes
+491,ME 620,Fundamentals of Artificial Intelligence,0,72,75,107,26,6,0,0,0,0,0,0,0,0,286,Forwarded,Yes
+492,ME 622,Fundamentals of Fusion Energy Generation and Tokamaks,0,3,1,4,2,5,2,4,0,0,0,0,0,0,21,Forwarded,yes
+493,ME 623,Dynamics of Machining Processes,2,15,18,32,24,7,5,4,0,0,13,0,0,1,121,Forwarded,yes
+494,ME 648,Viscous Fluid Flow,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,Forwarded,Yes
+495,ME 657,Two Phase Flow and Heat Transfer,0,4,3,4,2,2,0,0,0,0,0,0,0,0,15,Forwarded,yes
+496,ME 670,Advanced Computational Fluid Dynamics,0,1,1,3,1,0,0,0,0,0,0,0,0,2,8,Forwarded,yes
+497,ME 692,Gear Engineering,1,6,18,12,10,5,3,1,0,0,1,0,0,0,57,Forwarded,yes
+498,ME 696,Biomedical Devices and Systems,0,5,12,21,20,23,11,12,10,0,0,0,0,1,115,Forwarded,yes
+499,NCC,NCC,0,0,0,0,0,0,0,0,0,0,0,0,15,91,106,Forwarded,yes
+500,PH 102,Physics 2,0,40,107,134,129,164,151,155,0,1,63,1,0,0,945,Forwarded,Yes
+501,PH 110,Physics Laboratory,9,67,151,155,43,9,2,1,1,0,1,0,0,0,439,Forwarded,yes
+502,PH 202,Electromagnetics,0,2,4,15,7,20,6,7,0,0,0,0,0,0,61,Forwarded,No
+503,PH 204,Quantum Mechanics-I,0,1,2,5,15,11,8,13,0,0,3,0,0,0,58,Forwarded,Yes
+504,PH 206,Computational Physics,1,18,10,14,7,2,4,1,0,0,0,0,0,0,57,Forwarded,Yes
+505,PH 208,Digital electronics & microprocessors,0,8,7,5,8,12,10,8,0,0,2,0,0,0,60,Forwarded,Yes
+506,PH 210,General Physics Laboratory-I,0,0,6,34,16,2,1,0,0,0,0,0,0,0,59,Forwarded,Yes
+507,PH 282M,Engineering optics,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Forwarded,Yes
+508,PH 302,Solid state physics,0,4,11,12,9,10,6,4,0,0,5,0,0,0,61,Forwarded,yes
+509,PH 304,Measurement techniques,1,1,5,15,14,14,10,3,0,0,1,0,0,0,64,Forwarded,Yes
+510,PH 306,Lasers and Ultra Fast Optics,1,6,12,18,6,10,5,2,0,0,0,0,0,0,60,Forwarded,Yes
+511,PH 308,Nuclear Science and Engineering,0,4,11,23,11,10,1,1,0,0,0,0,0,0,61,Forwarded,Yes
+512,PH 310,Advance Physics Laboratory,3,23,18,7,4,5,2,0,0,0,0,0,0,0,62,Forwarded,Yes
+513,PH 312,Mini Project,4,14,29,6,5,2,0,1,0,0,0,0,0,0,61,Forwarded,Yes
+514,PH 382M,Laser Physics and Technology,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,Forwarded,Yes
+515,PH 402,Mathematical Physics-II,0,2,2,10,11,9,10,10,0,0,1,0,1,0,56,Forwarded,Yes
+516,PH 404,Statistical Mechanics,0,3,7,14,11,10,3,3,0,0,4,0,0,0,55,Forwarded,Yes
+517,PH 406,Quantum Mechanics-II,0,0,1,3,10,8,24,12,1,0,0,0,0,0,59,Forwarded,No
+518,PH 408,Measurement techniques,0,8,10,7,14,9,5,2,0,0,1,0,0,0,56,Forwarded,yes
+519,PH 410,Electrodynamics-I,0,4,3,11,11,8,9,4,0,0,4,0,0,0,54,Forwarded,yes
+520,PH 412,General Physics Laboratory-I,3,29,18,4,0,0,0,0,0,0,0,0,0,0,54,Forwarded,yes
+521,PH 422,Project-II,0,5,15,6,5,3,0,0,1,0,0,0,0,0,35,Forwarded,yes
+522,PH 441,Quantum Computation and Cryptography,0,2,4,10,11,4,2,1,0,0,2,0,2,1,39,Forwarded,No
+523,PH 456,Physics of Carbon-Based Materials,0,2,2,8,13,14,5,2,0,0,0,0,0,0,46,Forwarded,yes
+524,PH 463,Theory of relativity,0,6,3,1,2,3,4,0,0,0,0,0,1,0,20,Forwarded,yes
+525,PH 464,Fundamentals of cosmology,0,2,4,7,12,6,9,10,0,0,3,0,0,1,54,Forwarded,No
+526,PH 465,Optoelectronics,3,4,7,5,3,2,0,0,0,0,0,0,0,0,24,Forwarded,yes
+527,PH 466,Advanced Statistical Mechanics,0,3,3,1,5,7,16,3,0,0,0,0,0,0,38,Forwarded,yes
+528,PH 516,Advance Physics Laboratory,0,7,29,12,2,1,0,0,0,0,0,0,0,0,51,Forwarded,yes
+529,PH 518,Project-II,0,15,21,10,1,2,0,0,0,0,1,1,0,0,51,Forwarded,yes
+530,PH 523,Magnetism and Superconductivity,0,10,13,16,15,12,4,4,0,0,0,0,0,0,74,Forwarded,yes
+531,PH 531,Laser Physics,4,8,13,6,3,0,0,0,0,0,0,0,0,0,34,Forwarded,yes
+532,PH 533,Nonlinear optics,0,1,0,2,1,1,0,0,0,0,0,0,0,1,6,Forwarded,yes
+533,PH 541,Quantum computation & Quantum information,1,3,9,13,14,0,6,1,0,0,0,0,0,1,48,Forwarded,yes
+534,PH 544,High Energy Physics,0,1,1,2,7,3,2,2,0,0,0,0,0,2,20,Forwarded,yes
+535,PH 702,Statistical methods in Condensed Matter Physics,4,0,2,6,5,3,0,2,0,0,0,0,0,2,24,Forwarded,yes
+536,PH 704,Guided and Fourier Wave Optics,0,2,1,9,3,0,0,0,1,0,0,0,0,0,16,Forwarded,yes
+537,PH 706,Gravitation and Cosmology,0,0,3,5,6,7,6,1,1,0,0,0,0,1,30,Forwarded,yes
+538,PH 708,Mini project,0,13,12,5,0,0,0,0,3,0,0,0,0,0,33,Forwarded,No
+539,RA 505,Robot Sensing and Vision,1,1,8,14,5,1,1,0,0,0,0,0,0,0,31,Forwarded,Yes
+540,RA 506,Machine Learning,0,4,3,9,10,4,1,0,0,0,0,0,0,0,31,Forwarded,yes
+541,RA 607,Underactuated systems,0,1,3,3,4,4,3,1,0,0,0,0,0,0,19,Forwarded,yes
+542,RT 512,Livelihood and Entrepreneurship,0,2,1,3,0,1,0,0,0,0,0,1,0,0,8,Forwarded,yes
+543,RT 514,Water Resources Management,0,1,3,2,0,0,0,0,0,0,0,0,0,0,6,Forwarded,yes
+544,RT 517,Agri-horticultural Produce Processing Technology,0,0,0,2,3,0,2,0,1,0,0,0,0,0,8,Not Processed,#N/A
+545,RT 520,Field Work and Communication,0,2,4,0,0,0,0,0,0,0,0,1,0,0,7,Forwarded,yes
+546,SA 101,Athletics,0,0,0,0,0,0,0,0,0,0,0,0,0,62,62,Forwarded,Yes
+547,SA 102,Basketball,0,0,0,0,0,0,0,0,0,0,0,0,2,58,60,Forwarded,No
+548,SA 103,Volleyball,0,0,0,0,0,0,0,0,0,0,0,0,0,65,65,Forwarded,No
+549,SA 104,Football,0,0,0,0,0,0,0,0,0,0,0,0,0,61,61,Forwarded,No
+550,SA 105,Hockey,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,Forwarded,No
+551,SA 106,Cricket,0,0,0,0,0,0,0,0,0,0,0,0,0,61,61,Forwarded,No
+552,SA 107,Badminton,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,Forwarded,No
+553,SA 108,Table Tennis,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,Forwarded,No
+554,SA 109,Lawn Tennis,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,Forwarded,No
+555,SA 110,Yoga,0,0,0,0,0,0,0,0,0,0,0,0,43,351,394,Forwarded,No
+556,SA 116,Weight Lifting,0,0,0,0,0,0,0,0,0,0,0,0,0,40,40,Forwarded,No
+557,SA 117,Swimming,0,0,0,0,0,0,0,0,0,0,0,0,0,41,41,Forwarded,No
+558,SA 201,Athletics,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Forwarded,#N/A
+559,SA 203,Volleyball,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Forwarded,#N/A
+560,SA 207,Badminton,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Forwarded,#N/A
+561,SA 210,YOGA,0,0,0,0,0,0,0,0,0,0,0,0,3,16,19,Forwarded,#N/A
+562,SA 216,Weightlifting,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,Forwarded,#N/A
+563,SA 217,Swimming,0,0,0,0,0,0,0,0,0,0,0,0,1,15,16,Forwarded,#N/A
+564,SA 301,Athletics,0,0,0,0,0,0,0,0,0,0,0,0,0,31,31,Forwarded,Yes
+565,SA 302,Basketball,0,0,0,0,0,0,0,0,0,0,0,0,0,29,29,Forwarded,No
+566,SA 303,Volleyball,0,0,0,0,0,0,0,0,0,0,0,0,0,31,31,Forwarded,No
+567,SA 304,Football,0,0,0,0,0,0,0,0,0,0,0,0,0,30,30,Forwarded,No
+568,SA 305,Hockey,0,0,0,0,0,0,0,0,0,0,0,0,0,30,30,Forwarded,No
+569,SA 306,Cricket,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,Forwarded,No
+570,SA 307,Badminton,0,0,0,0,0,0,0,0,0,0,0,0,0,30,30,Forwarded,No
+571,SA 308,Table Tennis,0,0,0,0,0,0,0,0,0,0,0,0,0,30,30,Forwarded,No
+572,SA 309,Lawn Tennis,0,0,0,0,0,0,0,0,0,0,0,0,0,30,30,Forwarded,No
+573,SA 310,Weightlifting,0,0,0,0,0,0,0,0,0,0,0,0,0,22,22,Forwarded,No
+574,SA 311,Swimming,0,0,0,0,0,0,0,0,0,0,0,0,2,30,32,Forwarded,No
+575,SA 402,Basketball,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,Forwarded,#N/A
+576,SA 404,Football,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Forwarded,#N/A
+577,SA 407,Badminton,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Forwarded,#N/A
+578,SA 411,Swimming,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Forwarded,#N/A
+579,SA 415,SA 415,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Forwarded,#N/A
