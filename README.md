@@ -34,3 +34,30 @@ Each row represents **one course**.
 ```sql
 CREATE DATABASE IF NOT EXISTS sql_project1;
 USE sql_project1;
+```
+
+### Create Table
+```sql
+CREATE TABLE IF NOT EXISTS Grades_2024(
+    S_No INT PRIMARY KEY,
+    Course_Code VARCHAR(20),
+    Course_Name VARCHAR(100),
+    A_S INT,
+    AA INT,
+    AB INT,
+    BB INT,
+    BC INT,
+    CC INT,
+    CD INT,
+    DD INT,
+    FA INT,
+    FD INT,
+    FP INT,
+    I INT,
+    NP INT,
+    PP INT,
+    Grand_Total INT,
+    HoD VARCHAR(15),
+    Hardcopy_Received VARCHAR(10)
+);
+```
