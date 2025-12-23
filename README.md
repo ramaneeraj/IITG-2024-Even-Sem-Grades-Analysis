@@ -61,3 +61,15 @@ CREATE TABLE IF NOT EXISTS Grades_2024(
     Hardcopy_Received VARCHAR(10)
 );
 ```
+
+## 🔍 Data Verification
+
+### Check Number of Records
+```sql
+SELECT COUNT(*) FROM grades_2024;
+```
+
+### View Full Dataset
+```sql
+SELECT * FROM grades_2024;
+```
