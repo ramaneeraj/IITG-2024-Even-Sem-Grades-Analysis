@@ -73,3 +73,91 @@ SELECT COUNT(*) FROM grades_2024;
 ```sql
 SELECT * FROM grades_2024;
 ```
+
+## 📌 SQL Queries
+
+### List All Distinct Courses
+```sql
+SELECT DISTINCT Course_Code, Course_Name
+FROM grades_2024;
+```
+
+### Courses where no student failed due to FP (Failure due to performance)
+```sql
+SELECT S_No, Course_Code, Course_Name FROM grades_2024 
+WHERE FP=0;
+```
+
+### Courses With Attendance Failures
+```sql
+SELECT S_No, Course_Code, Course_Name
+FROM grades_2024
+WHERE FA > 0;
+```
+
+### Course With Highest Number of AS Grades
+```sql
+SELECT S_No, Course_Code, Course_Name, A_S
+FROM grades_2024
+ORDER BY A_S DESC
+LIMIT 1;
+```
+
+### Course With Maximum Failures
+```sql
+SELECT S_No, Course_Code, Course_Name
+FROM grades_2024
+ORDER BY (FA + FD + FP) DESC
+LIMIT 1;
+```
+
+### Courses Where More Than 50% Students Got BB or Better
+```sql
+SELECT S_No, Course_Code, Course_Name
+FROM grades_2024
+WHERE (A_S + AA + AB + BB) > 0.5 * Grand_Total;
+```
+
+## 📈 Percentage-Based Analysis
+
+### Failure Percentage for Each Course
+```sql
+SELECT 
+  S_No,
+  Course_Code,
+  Course_Name,
+  (FA + FD + FP) * 100.0 / Grand_Total AS Failure_Percentage
+FROM grades_2024;
+```
+
+### Pass Percentage for Each Course
+```sql
+SELECT 
+  S_No,
+  Course_Code,
+  Course_Name,
+  A_S + AA + AB + BB + BC + CC + CD + DD) * 100.0 / Grand_Total AS Pass_Percentage
+FROM grades_2024;
+```
+
+## ✅ Data Consistency Validation
+```sql
+SELECT S_No, Course_Code, Course_Name
+FROM grades_2024
+WHERE
+(A_S + AA + AB + BB + BC + CC + CD + DD +
+ FA + FD + FP + I + NP + PP) != Grand_Total;
+```
+
+## 📊 Average Failure Rate
+```sql
+SELECT 
+ AVG(Percentage_Of_Failures) AS Average_Failure_Rate
+FROM (
+    SELECT 
+      (FA + FD + FP) * 100.0 / Grand_Total AS Percentage_Of_Failures
+    FROM grades_2024
+) t;
+```
+
+
